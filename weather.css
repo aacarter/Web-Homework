@@ -18,30 +18,7 @@ body {
   float: right;
 }
 .content{
-    margin-top:100px;
-}
-
-h1 {
-  font-size: 24px;
-  text-align: center;
-  color: rgb(157, 56, 197);
-  font-weight: bold;
-}
-.graph {
-  background-color: white;
-}
-
-.graph-left {
-  padding: 3%;
-}
-
-.graph-right {
-  padding: 3%;
-}
-
-.graph-single {
-  padding: 3%;
-  margin: 3%;
+  margin-top:100px;
 }
 
 #text {
@@ -76,3 +53,26 @@ h1 {
   width: 100%;
   padding: 25px
  }
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+  color: rgb(157, 56, 197);
+  font-weight: bold;
+}
+.graph {
+  background-color: white;
+}
+
+.graph-left {
+  padding: 3%;
+}
+
+.graph-right {
+  padding: 3%;
+}
+
+.graph-single {
+  padding: 3%;
+  margin: 3%;
+}
